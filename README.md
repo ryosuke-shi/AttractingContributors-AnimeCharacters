@@ -23,6 +23,12 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # GOAL
 Please write your favorite sports below.
 
+
+Basketball</br>
 Tennis</br>
-Climbing
-Football
+Football</br>
+Swimming</br>
+Climbing</br>
+Running</br>
+Soccer</br>
+
