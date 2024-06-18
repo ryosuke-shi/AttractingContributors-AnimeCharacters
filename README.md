@@ -26,9 +26,9 @@ Please write your favorite sports below.
 
 Basketball</br>
 Tennis</br>
+Football</br>
 Swimming</br>
 Climbing</br>
 Running</br>
 Soccer</br>
-
 
