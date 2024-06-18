@@ -25,4 +25,5 @@ Please write your favorite sports below.
 
 Tennis</br>
 Climbing</br>
+Running</br>
 Soccer</br>
