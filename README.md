@@ -31,4 +31,5 @@ Swimming</br>
 Climbing</br>
 Running</br>
 Soccer</br>
+Handball</br>
 Table tennis</br>
