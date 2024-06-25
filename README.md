@@ -21,3 +21,4 @@ Goal - I want contributors to help me list some favorite Japanese Anime Characte
 10. Hange Zoë (Attack on Titan)
 11. Anya Forger(SPY×FAMILY)
 12. キルア（HUNTER×HUNTER)
+13. Shuichi Akai (Detactive Conan)
