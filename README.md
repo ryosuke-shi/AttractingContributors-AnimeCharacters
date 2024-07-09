@@ -22,3 +22,4 @@ Goal - I want contributors to help me list some favorite Japanese Manga or Anime
 11. Anya Forger(SPY×FAMILY)
 12. キルア（HUNTER×HUNTER)
 13. Shuichi Akai (Detactive Conan)
+14. Hiyori Shiina (Classroom of the Elite)
